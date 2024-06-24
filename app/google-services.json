@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "584149458089",
+    "project_id": "realtimedb-94037",
+    "storage_bucket": "realtimedb-94037.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584149458089:android:9a52b95bae980918625db8",
+        "android_client_info": {
+          "package_name": "com.dhruv.realtimedb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuB3k7jLxQ6wkVEb-rBIf8zSDx6xQBkvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
